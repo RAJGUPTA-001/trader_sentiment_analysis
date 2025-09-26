@@ -1,0 +1,6 @@
+sentiment_classification,trading_days,avg_daily_volume,avg_daily_pnl,total_pnl,avg_trades_per_day,win_rate,profitability_rank
+Greed,193,1495246.09,11140.57,2150129.27,260.6,0.725,5
+Extreme Greed,114,1091799.69,23817.29,2715171.31,350.8,0.877,3
+Neutral,67,2690180.05,19297.32,1292920.68,562.5,0.672,4
+Fear,91,5311261.43,36891.82,3357155.44,679.5,0.736,2
+Extreme Fear,14,8177447.25,52793.59,739110.25,1528.6,0.643,1
